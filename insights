@@ -1,11 +1,11 @@
 # 💡 Insights de Negócio
 
-1. A categoria de produtos mais vendida representa a maior parte do faturamento, indicando forte dependência desse segmento.
+1. A categoria de produtos Technology representa a maior parcela do faturamento total, indicando forte dependência desse segmento para o desempenho geral do negócio.
 
-2. Algumas regiões apresentam desempenho abaixo da média, sugerindo oportunidade de estratégias de marketing regionalizadas.
+2. A análise por região evidencia que a região Central apresenta desempenho inferior em comparação às regiões East e West, sugerindo oportunidade de melhoria em estratégias de vendas e marketing regional.
 
-3. O crescimento das vendas ao longo do tempo mostra sazonalidade, com picos em determinados períodos do ano.
+3. As vendas apresentam comportamento variável ao longo do tempo, indicando possível influência de sazonalidade, com períodos de maior concentração de receita em determinados intervalos do ano.
 
-4. Produtos com maior volume de vendas não necessariamente são os mais lucrativos, indicando necessidade de revisão de precificação.
+4. Observa-se que nem sempre os produtos com maior volume de vendas são os mais lucrativos, o que indica a necessidade de revisão de estratégias de precificação e foco em margem de lucro.
 
-5. Modelos de Machine Learning mostraram que variáveis temporais têm impacto relevante na previsão de vendas futuras.
+5. Os modelos de Machine Learning aplicados demonstram que variáveis temporais e categóricas possuem impacto relevante na previsão de vendas, permitindo apoiar decisões mais estratégicas baseadas em dados.

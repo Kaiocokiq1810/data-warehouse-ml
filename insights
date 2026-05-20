@@ -1,0 +1,11 @@
+# 💡 Insights de Negócio
+
+1. A categoria de produtos mais vendida representa a maior parte do faturamento, indicando forte dependência desse segmento.
+
+2. Algumas regiões apresentam desempenho abaixo da média, sugerindo oportunidade de estratégias de marketing regionalizadas.
+
+3. O crescimento das vendas ao longo do tempo mostra sazonalidade, com picos em determinados períodos do ano.
+
+4. Produtos com maior volume de vendas não necessariamente são os mais lucrativos, indicando necessidade de revisão de precificação.
+
+5. Modelos de Machine Learning mostraram que variáveis temporais têm impacto relevante na previsão de vendas futuras.

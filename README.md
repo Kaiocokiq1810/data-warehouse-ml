@@ -28,7 +28,7 @@ Este projeto tem como objetivo a construção de uma solução completa de dados
 ## 🗄️ Data Warehouse
 O Data Warehouse foi modelado utilizando o conceito de Star Schema, contendo:
 - Tabela fato (vendas)
-- Dimensões: cliente, produto, categoria, região e tempo
+- Dimensões: cliente, produto, região e tempo
 
 O banco foi implementado no PostgreSQL e exportado para versionamento no GitHub.
 

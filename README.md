@@ -68,5 +68,5 @@ O projeto permitiu identificar padrões importantes nos dados e gerar previsões
 ## 👨‍💻 Autores
 - Kaique Duarte Guilherme  
 - Vinicius Nogueira
-- isac silva
+- isac freitas
 
